@@ -1,0 +1,35 @@
+_repo: The-Wild-Knight-and-Other-Poems_12037
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    - Chesterton, Gilbert Keith
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+description: Born in London, Chesterton was educated at St. Paul's, but never went
+  to college. He went to art school. In 1900, he was asked to contribute a few magazine
+  articles on art criticism, and went on to become one of the most prolific writers
+  of all time. He wrote a hundred books, contributions to 200 more, hundreds of poems,
+  including the epic Ballad of the White Horse, five plays, five novels, and some
+  two hundred short stories, including a popular series featuring the priest-detective,
+  Father Brown. In spite of his literary accomplishments, he considered himself primarily
+  a journalis.
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12037'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry'
+- GITenberg
+title: The Wild Knight and Other Poems
+url: http://www.gutenberg.org/ebooks/12037
